@@ -1,5 +1,5 @@
 # django-bnr-exchangerate
-A django application that handles the updating and supplying of an exchange rate.
+A django application that handles the updating and supplying of an exchange rate. It was tested with Django 1.8+ and Python 3.4
 ## Instalation
 ```
 pip install django-bnr-exchangerate
