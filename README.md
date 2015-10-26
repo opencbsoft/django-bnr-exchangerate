@@ -6,7 +6,7 @@ pip install django-bnr-exchangerate
 ```
 Add to settings.py
 ```
-    'bnr_exchangerate',
+'bnr_exchangerate',
 ```
 ## Example usage
 Get an exchange rate for a value for a certain day.
